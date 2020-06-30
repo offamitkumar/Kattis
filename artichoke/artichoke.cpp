@@ -140,8 +140,6 @@ const int64_t MOD  = (int64_t)1e9+7ll;
 
 
 
-
-
 signed main(void){
 #ifdef HELL_JUDGE
     freopen("input","r",stdin);
